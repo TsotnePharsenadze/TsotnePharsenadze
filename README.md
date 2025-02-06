@@ -1,4 +1,4 @@
 - **Frameworks:** "React", Next.js, Laravel, "Livewire";
-- **Database management systems:** Appwrite.io, Supabase, Neon.tech, Upstash (for Redis), [MySQL, PostgreSQL, MongoDB];
-- **Tools:** LiveKit, React-Query, Clerk, Auth.js (fka NextAuth.js), Prisma, UploadThing, Zustand, Git, Sentry, Redux;
-- **CSS Libraries:** Tailwind CSS, Bootstrap, MaterialUI, "Styled-Components", "Shadcn Ui";
+- **Database management systems:** Appwrite.io, Supabase, Neon.tech, Upstash (for Redis), MySQL;
+- **Tools:** LiveKit, React-Query, Clerk, Auth.js (fka NextAuth.js), Prisma, UploadThing, Zustand, Tiptap;
+- **CSS Libraries:** Tailwind CSS, Bootstrap, "Shadcn Ui";
